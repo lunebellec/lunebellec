@@ -4,4 +4,4 @@ My main research interest is to train artificial neural networks in order to joi
 
 Finally, I am an open science enthusiast, and I regularly contribute to [Brainhack](https://brainhack.org), [Brainhack school](https://school-brainhack.github.io/), the [Canadian Open Neuroscience Platform](https://conp.ca), the [open science SIG](https://ossig.netlify.app/), and a number of open source software librairies.
 
-You can find a list of my publications on [google scholar](https://scholar.google.com/citations?user=Yz8WY8YAAAAJ&hl=en) and contact me by [email](mailto:pierre.bellec@criugm.qc.ca), on <a rel="me" href="https://fediscience.org/@pierre_bellec">Mastodon</a> or on the [Brainhack mattermost](https://mattermost.brainhack.org).
+You can find a list of my publications on [google scholar](https://scholar.google.com/citations?user=Yz8WY8YAAAAJ&hl=en) and contact me by [email](mailto:pierre.bellec@criugm.qc.ca), on <a rel="me" href="https://neuromatch.social/@pierre_bellec">Mastodon</a> or on the [Brainhack mattermost](https://mattermost.brainhack.org).
